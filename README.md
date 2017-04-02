@@ -1,3 +1,3 @@
-# MechineLearning
-algorithmm in mechine learning
-part one： mechine learning course by Andrew Ng 
+# MachineLearning
+algorithmm in machine learning
+part one： machine learning course by Andrew Ng 
